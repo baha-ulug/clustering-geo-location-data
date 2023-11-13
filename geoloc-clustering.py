@@ -16,8 +16,8 @@ import os
 import matplotlib.pyplot as plt
 
 # define repo url and local path for saving data
-repo_url = "https://github.com/BennuTeam/geolocation-clustering-v01.git"
-local_path = "D:\Ponisha Projects\Clustering based on Geolocation data\data" 
+repo_url = "../geolocation-clustering-v01.git"
+local_path = "..Clustering based on Geolocation data\data" 
 # local path should be an empty folder or sholud not exist and the command itself will create it
 
 # clone repo to local path
